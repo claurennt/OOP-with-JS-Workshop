@@ -1,5 +1,6 @@
 import Movie from "./Movie.js";
 
+//inheritance
 export default class SciFi extends Movie {
   /*the constructor and super syntax are necessary in the child class only 
   if you you want to add more functionality to your child instance*/
