@@ -1,2 +1,2 @@
-# OOP-with-JS-Workshop
+# OOP-with-JS
 Created with CodeSandbox
