@@ -2,7 +2,7 @@ import Movie from "./Movie.js";
 
 export default class SciFi extends Movie {
   /*the constructor and super syntax are necessary in the child class only 
-  if you you want to add more functionality to your child class*/
+  if you you want to add more functionality to your child instance*/
   constructor(title, director, year, genre) {
     super(title, director, year);
 
