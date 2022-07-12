@@ -29,7 +29,7 @@ export default class Movie {
   }
 
   /*static functions are used when we don't need to use 'this' and 'new'.
-they are accessible automatically on the class and its subclasses/children classes*/
+they are accessible only on the class, not on the instances*/
   static printSomething() {
     return "Movies are cool!";
   }
